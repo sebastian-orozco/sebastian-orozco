@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Sebastian Orozco
+# 👋 Hi, I’m Seb
 
 - 💻 SWE Intern @ Bank of America
 - 🧑‍🏫 Teaching kids how to code @ Code Haven
