@@ -16,7 +16,7 @@
 - 🌍 Tech for education, civic engagement, and equity
 
 <strong>🌟 In my free time, I like to:</strong>
-- 🗣️ Learn languages (fluent in Eng/Esp/中, learning 한)
+- 🗣️ Learn languages (fluent Eng/Esp/中, learning 한)
 - 🍰 Bake pastries, especially cheese danishes  
 - 🏗️ Design LEGOs of my favorite buildings
 
