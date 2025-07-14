@@ -22,7 +22,7 @@
 
 </td>
 <td width="50%">
-<p><strong>Check out some of my projects below!</strong></p>
+<p><strong>Here's some stuff I've worked on!</strong></p>
 
 https://github.com/user-attachments/assets/a49ca7ef-bd2b-4d69-8ea0-a7546c720316
 
